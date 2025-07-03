@@ -2,3 +2,4 @@
 
 - [Annotated Grant Agreement (txt)](docs/Annotated Grant Agreement- V2.0 01.04.2025.txt)
 - [Frequently Asked Questions (FAQ)](docs/faqs.json)
+- [Annotated Grant Agreement (pdf)](docs/Annotated Grant Agreement.pdf)
